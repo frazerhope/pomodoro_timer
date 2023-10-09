@@ -18,7 +18,7 @@ A pomodoro timer gui created using Tkinter
 <img src="https://i.imgur.com/4FoBFEF.png" height="80%" width="80%" alt="Program Demo"/>
 <br />
 <br />
-<img src="https://i.imgur.com/4FoBFEF.png" height="80%" width="80%" alt="Program Demo"/>
+<img src="https://i.imgur.com/CDC3Hox.png" height="80%" width="80%" alt="Program Demo"/>
 </p>
 
 <!--
