@@ -21,11 +21,3 @@ A pomodoro timer gui created using Tkinter
 <img src="https://i.imgur.com/CDC3Hox.png" height="80%" width="80%" alt="Program Demo"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
